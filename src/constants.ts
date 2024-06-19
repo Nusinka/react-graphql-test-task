@@ -1,0 +1,1 @@
+export const ERROR_MSG_TIME = 3000;
