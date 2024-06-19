@@ -14,7 +14,7 @@ This project is a simple React application using Apollo Client to interact with 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/Nusinka/react-graphql-test-task.git
     cd your-repo-name
     ```
 
@@ -27,5 +27,5 @@ This project is a simple React application using Apollo Client to interact with 
 3. Run the project:
 
     ```bash
-    npm dev
+    npm run dev
     ```
